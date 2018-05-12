@@ -1,0 +1,28 @@
+_repo: The-Princess-GalvaA-Romance_34130
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34130-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Whitelaw, David
+    birthdate: 1875
+    deathdate: 1970
+    gutenberg_agent_id: '36806'
+    url: http://www.gutenberg.org/2009/agents/36806
+    wikipedia: http://en.wikipedia.org/wiki/David_Whitelaw
+description: ''
+gutenberg_issued: '2010-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34130'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Princesses -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PR'
+title: 'The Princess Galva: A Romance'
+url: http://www.gutenberg.org/ebooks/34130
